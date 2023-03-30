@@ -13,5 +13,9 @@ public class Main {
 
         
 
+        color col = new color();
+        col.colorLights="True";
+        col.colorTyre="false";
+        col.colorWindows="True";
     }
 }
